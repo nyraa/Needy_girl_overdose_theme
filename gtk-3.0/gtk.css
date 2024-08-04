@@ -156,3 +156,6 @@ button:active{
     color: transparent;
     background-image: url('./assets/hide-prelight.png');
 }
+* {
+    font-family: "Cubic 11";
+}
